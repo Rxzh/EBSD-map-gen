@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+scikit-image
+tables
+vtk
+h5py
+lxml
